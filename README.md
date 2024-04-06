@@ -1,4 +1,4 @@
-DiskSpd
+chDiskSpd
 =======
 
 DiskSpd is a storage performance tool from the Windows, Windows Server and Cloud Server Infrastructure engineering teams at Microsoft. Please visit <https://github.com/Microsoft/diskspd/wiki> for updated documentation.
